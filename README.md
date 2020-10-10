@@ -1,5 +1,5 @@
 # python-dices
 
-![Image of Pokemon](https://imgur.com/d3V3f2a)
+![Image of Program](https://i.imgur.com/d3V3f2a.png)
 
-![Image of Pokemon](https://imgur.com/pHnrRWA)
+![Image of Program](https://i.imgur.com/pHnrRWA.png)
